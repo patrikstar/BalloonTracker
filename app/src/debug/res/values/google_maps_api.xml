@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=20:B0:62:73:19:64:94:87:20:A5:0C:3F:00:D4:52:71:C9:F1:0F:54%3Bcom.balloontracker
+
+    You can also add your credentials to an existing key, using this line:
+    20:B0:62:73:19:64:94:87:20:A5:0C:3F:00:D4:52:71:C9:F1:0F:54;com.balloontracker
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBhjcsxDtvxLn00wqUYv6cq6CnZwTFnW0s</string>
+</resources>
